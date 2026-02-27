@@ -10,12 +10,6 @@ namespace _20022026
     {
         static void Main(string[] args)
         {
-            int c = 0;
-            for (int i = 0; i < 100; i++) 
-            { 
-                if (i % 3 != 0) {  c++; }
-            }
-            Console.WriteLine(c);
             Console.WriteLine("Задание 1: ");
             number1();
             Console.WriteLine("Задание 2: ");
